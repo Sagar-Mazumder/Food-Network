@@ -31,7 +31,7 @@ h1 {
 }
 
 #home-text {
-    text-align: justify;
+
     color: gray;
 }
 
@@ -73,4 +73,52 @@ h1 {
 #about-header {
     color: gray;
     font-size: 250%;
+}
+
+.dish-tag {
+    display: flex;
+}
+
+.dishes-width {
+    width: 20%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 20px;
+    box-shadow: 10px 10px 25px gray;
+    border-radius: 40px;
+}
+
+.dish-image {
+    width: 100%;
+}
+
+.dish-center {
+    text-align: center;
+}
+
+#bish-id {
+    font-size: 250%;
+    font-weight: 700;
+    color: gray;
+}
+
+footer {
+    background-color: rgb(18, 18, 43);
+    margin-top: 10%;
+    padding-top: 3%;
+    padding-bottom: 5%;
+    text-align: center;
+    font-size: 100%;
+}
+
+footer span {
+    color: orange;
+}
+
+footer h2 {
+    color: silver;
+}
+
+footer p {
+    color: white;
 }
