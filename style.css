@@ -106,7 +106,7 @@ h1 {
 
 footer {
     background-color: rgb(18, 18, 43);
-    margin-top: 10%;
+    margin-top: 5%;
     padding-top: 3%;
     padding-bottom: 5%;
     text-align: center;
@@ -145,4 +145,21 @@ footer p {
 section div h1 {
     color: black;
     font-weight: 800;
+}
+
+.Contacts {
+    display: flex;
+    margin-left: 39%;
+    margin-right: 7%;
+}
+
+.Contacts-class {
+    width: 20%;
+}
+
+#Contacts {
+    margin-top: 5%;
+    margin-bottom: 3%;
+    text-align: center;
+    color: gray;
 }
