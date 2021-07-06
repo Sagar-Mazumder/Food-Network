@@ -77,14 +77,16 @@ h1 {
 
 .dish-tag {
     display: flex;
+    margin-left: 14%;
+    margin-right: 4%;
 }
 
 .dishes-width {
-    width: 20%;
-    margin-left: 5%;
-    margin-right: 5%;
+    width: 23%;
+    margin-left: 2%;
+    margin-right: 2%;
     padding: 20px;
-    box-shadow: 10px 10px 25px gray;
+    box-shadow: 8px 8px 15px gray;
     border-radius: 40px;
 }
 
@@ -121,4 +123,26 @@ footer h2 {
 
 footer p {
     color: white;
+}
+
+#Social-Media {
+    display: flex;
+    margin-left: 15%;
+    margin-right: 13%;
+    margin-top: 5%;
+    box-shadow: 8px 8px 15px gray;
+    border-radius: 30px;
+}
+
+.Social-class {
+    width: 30%;
+    margin-left: 8%;
+    margin-right: 1%;
+    padding: 20px;
+
+}
+
+section div h1 {
+    color: black;
+    font-weight: 800;
 }
